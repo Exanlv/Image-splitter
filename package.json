@@ -1,0 +1,19 @@
+{
+  "name": "5x5_emotes",
+  "version": "1.0.0",
+  "description": "Convert an image into a 5x5 for discord emotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exan",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.9.3",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
